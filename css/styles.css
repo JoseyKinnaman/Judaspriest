@@ -10,22 +10,44 @@ body {
   background-color: black;
   color: whitesmoke;
   border-radius: 8%;
+  border: 2px solid white;
+  padding: 5px;
+  margin-bottom: 15px;
+  margin-right: 15px;
+  font-family: "Permanent Marker", cursive;
+}
+h2 {
+  text-align: center;
 }
 
 img {
   border-radius: 8%;
+  margin-left: 53px;
+  margin-top: 15px;
 }
 
 .setlist {
   color: white;
   float: left;
   background-color: rgba(255, 0, 0, 0.3);
+  border: 2px solid white;
+  border-radius: 8%;
+  margin-bottom: 15px;
+  margin-left: 15px;
+  font-family: "Permanent Marker", cursive;
 }
 
-h1 {
+.box1 {
   color: white;
+  font-family: "Permanent Marker", cursive;
+  border-radius: 15%;
+  padding: 15px;
+  margin-bottom: 15px;
+  margin-right: 15px;
+  margin-left: 35px;
 }
 
 .groupshot {
   float: right;
+  margin-right: 15px;
 }
