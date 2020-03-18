@@ -1,7 +1,31 @@
 body {
+  background-image: url("https://i.pinimg.com/236x/1a/b3/5f/1ab35f00b19fe5fc04fc9dbd9d859133--judas-priest-hard-rock.jpg");
+  background-repeat: repeat;
+  font-family: monospace;
 }
 
 .side-bar {
   width: 25%;
+  float: right;
+  background-color: black;
+  color: whitesmoke;
+  border-radius: 8%;
+}
+
+img {
+  border-radius: 8%;
+}
+
+.setlist {
+  color: white;
+  float: left;
+  background-color: rgba(255, 0, 0, 0.3);
+}
+
+h1 {
+  color: white;
+}
+
+.groupshot {
   float: right;
 }
